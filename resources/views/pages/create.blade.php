@@ -1,6 +1,5 @@
 @extends('layout.template')
 
-@include('components.navbar')
 @section('content')
 
 <form action='{{url('buku')}}' method='post'>

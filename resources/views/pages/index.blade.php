@@ -1,6 +1,5 @@
 @extends('layout.template')
 
-@include('components.navbar')
 @section('content')
 
 <div class="my-3 p-3 px-5 bg-body rounded shadow-sm">
